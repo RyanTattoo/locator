@@ -15,7 +15,7 @@ Usage of Locator for attacking targets without prior mutual consent is illegal. 
 
 ### Usage:
 ```
-git clone https://github.com/thelinuxchoice/locator
+git clone https://github.com/RyanTattoo/locator
 cd locator
 bash locator.sh
 ```
